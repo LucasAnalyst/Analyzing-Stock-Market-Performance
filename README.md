@@ -28,7 +28,7 @@ You can install these libraries using pip:
 
 ## Usage
 
-To use this project, simply run the `Analyzing_stock_market_performence` file here [py](https://github.com/LucasAnalyst/Analyzing-Stock-Market-Performance/blob/main/Analyzing_stock_market_performance.py) or [ipynb](https://github.com/LucasAnalyst/Analyzing-Stock-Market-Performance/blob/main/Analyzing_stock_market_performance.ipynb) and follow the prompts. The script will output various metrics and graphs that summarize the performance of APPL stock portfolio.
+To use this project, simply run the `Analyzing_stock_market_performence` file here [ipynb](https://github.com/LucasAnalyst/Analyzing-Stock-Market-Performance/blob/main/Analyzing_stock_market_performance.ipynb) or [py](https://github.com/LucasAnalyst/Analyzing-Stock-Market-Performance/blob/main/Analyzing_stock_market_performance.py) and follow the prompts. The script will output various metrics and graphs that summarize the performance of APPL stock portfolio.
 
 ## Credits
 
